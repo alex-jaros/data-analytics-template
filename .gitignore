@@ -1,0 +1,12 @@
+# Python-related
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+
+# Data files
+data/raw/*
+!data/raw/.gitkeep
+
+# Environment
+.env
+*.venv
