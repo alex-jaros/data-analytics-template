@@ -6,10 +6,10 @@
 This repository is for data analytics projects, it gives information on managing data, notebooks, and the project results
 
 ## Folder Structure/Setup
-- **data/**: Contains raw and processed data sets
-- **notebooks/**: Jupyter notebooks for analysis
-- **script/**: Python scripts for reusable code
-- **results/**: Results like tables, charts, plots
+- data/: Contains raw and processed data sets
+- notebooks/: Jupyter notebooks for analysis
+- script/: Python scripts for reusable code
+- results/: Results like tables, charts, plots
 
 ## Usage
 1. To clone this repository: `git clone https://github.com/alex-jaros/data-analytics-template.git`
