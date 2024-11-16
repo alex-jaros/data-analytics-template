@@ -11,10 +11,6 @@ This repository is for data analytics projects, it gives information on managing
 - script/: Python scripts for reusable code
 - results/: Results like tables, charts, plots
 
-## Usage
-1. To clone this repository: `git clone https://github.com/alex-jaros/data-analytics-template.git`
-2. Replace template files with your project-specific files.
-
 ## Change Log
  changelog.md is for project updates
 
