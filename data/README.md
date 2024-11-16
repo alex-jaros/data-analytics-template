@@ -3,8 +3,8 @@
 ## Overview
 This folder contains datasets related to the data analytics project.
 
-- **raw/**: Unprocessed datasets.
-- **Cleaned/**: Cleaned and transformed datasets.
+- **raw/**: Uncleaned datasets
+- **Cleaned/**: Cleaned and final datasets
 
 ## Data Dictionary
 
