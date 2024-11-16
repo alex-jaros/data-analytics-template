@@ -1,10 +1,7 @@
 # Notebooks Folder
 
 ## Overview
-Contains Jupyter notebooks for different stages of analysis they are in.
+This folder has Jupyter notebooks for different stages of analysis they are in
 
-- **exploratory/**: Initial exploratory data analysis.
-- **modeling/**: Notebooks related to machine learning models.
-
-## Usage
-Use notebooks provided 
+- **exploratory/**: Initial exploratory analysis
+- **modeling/**: Notebooks in progress for modeling
