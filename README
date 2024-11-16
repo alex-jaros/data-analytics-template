@@ -1,22 +1,24 @@
 # Data Analytics Project 
 
-## Overview
-This repository is a template for data analytics projects. It gives information on how to manage data, notebooks, and the results.
+## Alex Jaros
 
-## Folder Structure
-- **data/**: Contains raw and processed datasets.
-- **notebooks/**: Jupyter notebooks for analysis.
-- **script/**: Python scripts for reusable functions.
-- **results/**: Outputs such as figures, tables, and final results.
+## Overview
+This repository is for data analytics projects, it gives information on managing data, notebooks, and the project results
+
+## Folder Structure/Setup
+- **data/**: Contains raw and processed data sets
+- **notebooks/**: Jupyter notebooks for analysis
+- **script/**: Python scripts for reusable code
+- **results/**: Results like tables, charts, plots
 
 ## Usage
-1. Clone this repository: `git clone https://github.com/alex-jaros/data-analytics-template.git`
+1. To clone this repository: `git clone https://github.com/alex-jaros/data-analytics-template.git`
 2. Replace template files with your project-specific files.
 
 ## Change Log
-See `changelog.md` for updates.
+ changelog.md is for project updates
 
 ## To-Do List
-See `ToDo.md` for pending tasks.
+ToDo.md keeps track of tasks that need to be completed
 
-## Alex Jaros
+
